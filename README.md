@@ -1,5 +1,4 @@
 # Sruthi Venkatachari 
-# Backend systems, with a Gen AI habit.
 
 *Software Engineer · Backend & Platform · Generative AI*
 
