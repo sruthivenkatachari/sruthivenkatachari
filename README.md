@@ -1,4 +1,4 @@
-# Hi, I'm Sruthi Venkatachari 👋
+# Sruthi Venkatachari 
 
 **Software Engineer · Gen AI & Backend**
 
